@@ -1,0 +1,15 @@
+C:\Users\hussein\Desktop\MycSharpProject\Dicegameapp\obj\Debug\net6.0\Dicegameapp.csproj.AssemblyReference.cache
+C:\Users\hussein\Desktop\MycSharpProject\Dicegameapp\obj\Debug\net6.0\Dicegameapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hussein\Desktop\MycSharpProject\Dicegameapp\obj\Debug\net6.0\Dicegameapp.AssemblyInfoInputs.cache
+C:\Users\hussein\Desktop\MycSharpProject\Dicegameapp\obj\Debug\net6.0\Dicegameapp.AssemblyInfo.cs
+C:\Users\hussein\Desktop\MycSharpProject\Dicegameapp\obj\Debug\net6.0\Dicegameapp.csproj.CoreCompileInputs.cache
+C:\Users\hussein\Desktop\MycSharpProject\Dicegameapp\bin\Debug\net6.0\Dicegameapp.exe
+C:\Users\hussein\Desktop\MycSharpProject\Dicegameapp\bin\Debug\net6.0\Dicegameapp.deps.json
+C:\Users\hussein\Desktop\MycSharpProject\Dicegameapp\bin\Debug\net6.0\Dicegameapp.runtimeconfig.json
+C:\Users\hussein\Desktop\MycSharpProject\Dicegameapp\bin\Debug\net6.0\Dicegameapp.dll
+C:\Users\hussein\Desktop\MycSharpProject\Dicegameapp\bin\Debug\net6.0\Dicegameapp.pdb
+C:\Users\hussein\Desktop\MycSharpProject\Dicegameapp\obj\Debug\net6.0\Dicegameapp.dll
+C:\Users\hussein\Desktop\MycSharpProject\Dicegameapp\obj\Debug\net6.0\refint\Dicegameapp.dll
+C:\Users\hussein\Desktop\MycSharpProject\Dicegameapp\obj\Debug\net6.0\Dicegameapp.pdb
+C:\Users\hussein\Desktop\MycSharpProject\Dicegameapp\obj\Debug\net6.0\Dicegameapp.genruntimeconfig.cache
+C:\Users\hussein\Desktop\MycSharpProject\Dicegameapp\obj\Debug\net6.0\ref\Dicegameapp.dll
